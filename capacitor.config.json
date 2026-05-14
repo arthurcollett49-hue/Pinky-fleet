@@ -1,0 +1,6 @@
+{
+  "appId": "com.pinky.fleet",
+  "appName": "Pinky Fleet System",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
